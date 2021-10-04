@@ -1,0 +1,10 @@
+.group-config {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid;
+  }
+
+  #select__document
+  {
+    margin-bottom: 2rem!important;
+  }

@@ -1,0 +1,44 @@
+.background-basket {
+	background-color: #f2f2f2;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.title-basket {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+}
+.breadcrumb > li + li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: "/\00a0";
+}
+.basket-system-name {
+	color: #ffffff;
+    background-color: #57707f;
+    padding: 5px 0 5px 10px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+}
+.item-basket {
+    background-color: white;
+    margin-bottom: 15px;
+    border: 1px solid #57707f;
+}
+table {
+    font-size: 13px;
+   
+}
+
+.basket-content {
+    padding: 10px;
+}
+.price-basket {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.btn-delete {
+    border: 1px solid #ced4da;
+}

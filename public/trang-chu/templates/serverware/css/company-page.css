@@ -1,0 +1,37 @@
+#forward {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.title-forward {
+	padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+.content-forward {
+	font-size: 13px;
+	font-family: 'Raleway', sans-serif;
+}
+.contact-content {
+	background-color: #f5f5f5;
+	border-bottom: solid 1px #dddddd;
+}
+.content-thumbnail {
+	border:1px solid#dddddd;
+}
+.info h4{
+	font-size: 18px;
+}
+.info {
+	padding: 0px 10px 10px 10px;
+}
+#screen-maketing {
+	border-top: 1px solid#dddddd;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 20px;
+}
+.screen-maketing-content h4 {
+	margin-top: 50px;
+}

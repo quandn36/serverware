@@ -1,0 +1,45 @@
+body {
+	padding-bottom: 0px !important;
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px
+}
+.fix-top {
+	display: flex;
+	justify-content: space-between;
+}
+.cart-ngon-ngu {
+	display: flex;
+	justify-content: flex-end;
+}
+.dropdown.ngon-ngu button {
+	width: 5.3em;
+	height: 2em;
+	margin-right: 5px;
+}
+.dropdown.cart button {
+	width: 3em;
+	height: 2em;
+	color: white;
+	background-color: #536b7a;
+}
+.dropdown.cart a {
+	text-decoration: none;
+	color: white;
+	background-color: #536b7a;
+	height: 32px;
+    padding-right: 0px;
+}
+.total-cart {
+	padding-right: 5px;
+	border-right: 1px solid black;
+}
+.fix-btn {
+	width: 100% !important;
+}
+#menu {
+	margin-top: 5px;
+}
+#menu .col-md-4 {
+	padding-right: 0px!important;
+	padding-left: 0!important;
+}

@@ -1,0 +1,24 @@
+ .str3 .str_item {
+        font-size:0;
+        line-height:0
+}
+.str3 img { opacity:0.8}
+.str3 img:hover { opacity:1}
+.str3.str_wrap.str_active {
+	background:#fff;
+}
+#limarquee {
+	height: 56px;
+	margin-top: 4%;
+}
+.limarquee_thumb {
+	float: left; 
+}
+.limarquee_thumb img {
+	width: 85px;
+	height: 56px;
+}
+.dz-image img {
+	width: 120px;
+	height: 120px;
+}

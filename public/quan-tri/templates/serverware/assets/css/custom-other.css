@@ -1,0 +1,15 @@
+/*ngoc quan fix font size text-muted*/
+.text-muted{
+	font-size: 10px !important;
+}
+
+/*ngoc quan fix thead cursor default*/
+.thead_cursor_change{
+	cursor: default !important;
+}
+
+/*fix top bar khong mờ khi nhấn nút xoá*/
+.topbar {
+	z-index: 99 !important;
+	
+}
